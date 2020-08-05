@@ -9,3 +9,6 @@ Requires
 - Skinning weights - IMPORTANT! Assumes loaded as a .mat array (Matlab). Easy to modify - just make self.skinWeights a verts X joints array
     
 Given BVH and OBJ can perform Rigid Skinning or Linear Blend Skinning (LBS)
+
+
+![Poly-LBS](https://github.com/dopomoc/Skinning/blob/master/skeleton_motion_jump.bvh-Poly-LBS.gif)
