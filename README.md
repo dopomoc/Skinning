@@ -10,5 +10,6 @@ Requires
     
 Given BVH and OBJ can perform Rigid Skinning or Linear Blend Skinning (LBS)
 
+Example of Linear Blend Skinning (LBS) created by the class:
 
 ![Poly-LBS](https://github.com/dopomoc/Skinning/blob/master/skeleton_motion_jump.bvh-Poly-LBS.gif)
